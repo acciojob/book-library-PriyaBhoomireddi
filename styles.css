@@ -60,7 +60,9 @@ h1 {
     border-radius: 5px;
     margin-top: 10px;
 }
-
+div{
+	color: #ffffff;
+}
 .book .price-block .price {
     color: #ffffff; /* Correct text color */
     font-weight: bold;
