@@ -54,7 +54,8 @@ h1 {
 .book .price-block {
     display: flex;
     justify-content: center;
-    background-color: rgb(46, 204, 113); 
+    background-color: #2ecc71; 
+	color:#ffffff;
     padding: 10px;
     border-radius: 5px;
     margin-top: 10px;
